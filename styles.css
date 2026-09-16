@@ -9,7 +9,15 @@ body {
     color: #ffffff;
     background-color: #000000;
 }
-
+main {
+    background-color: burlywood;
+    border: 6px solid #000000;
+    margin: 40px;
+    padding: 40px;
+}
+main h2 {
+    color: chartreuse;
+}
 h1,
 h2,
 p {
